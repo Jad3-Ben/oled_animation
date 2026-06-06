@@ -1,0 +1,23 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# IDE settings
+.settings/
+
+# CubeMX generated (optional, keep if you want version control for config)
+# .mxproject
+
+# Compiled files
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.list
+*.launch
+
+# OS files
+Thumbs.db
+*.DS_Store
